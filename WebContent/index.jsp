@@ -8,7 +8,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>VisViewerW_Demo(ver1.0)</title>
+  <title>VisViewerW_Demo 처음</title>
   <link href="resources/css/kfonts2.css" rel="stylesheet">
   <link href="resources/css/bootstrap.min.css" rel="stylesheet">
   <link href="resources/css/bootstrap-select.css" rel="stylesheet">
