@@ -3,7 +3,7 @@
 	response.addHeader("Access-Control-Allow-Origin", "*");
 	response.addHeader("Access-Control-Allow-Origin", "http://www.alternatiff.com");
 %>
-<!-- 테스트 3-->
+<!-- 테스트 4-->
 <html>
 
 <head>
