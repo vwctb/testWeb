@@ -1,0 +1,54 @@
+
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background: url("../images/vistiff_icons.png") no-repeat top left;
+
+}
+
+/* White icons with optional class, or on hover/focus/active states of certain elements */
+
+.icon-white,
+.nav-pills > .active > a > [class^="icon-"],
+.nav-pills > .active > a > [class*=" icon-"],
+.nav-list > .active > a > [class^="icon-"],
+.nav-list > .active > a > [class*=" icon-"],
+.navbar-inverse .nav > .active > a > [class^="icon-"],
+.navbar-inverse .nav > .active > a > [class*=" icon-"],
+.dropdown-menu > li > a:hover > [class^="icon-"],
+.dropdown-menu > li > a:focus > [class^="icon-"],
+.dropdown-menu > li > a:hover > [class*=" icon-"],
+.dropdown-menu > li > a:focus > [class*=" icon-"],
+.dropdown-menu > .active > a > [class^="icon-"],
+.dropdown-menu > .active > a > [class*=" icon-"],
+.dropdown-submenu:hover > a > [class^="icon-"],
+.dropdown-submenu:focus > a > [class^="icon-"],
+.dropdown-submenu:hover > a > [class*=" icon-"],
+.dropdown-submenu:focus > a > [class*=" icon-"] {
+  background-image: url("./vistiff_icons.png");
+}
+
+.icon-pencil { background-position: -5px -5px; }
+.icon-vector_path_square { background-position: -39px -5px; }
+.icon-vector_path_circle { background-position: -5px -39px; }
+.icon-vector_path_line { background-position: -39px -39px; }
+.icon-vector_path_curve { background-position: -73px -5px; }
+.icon-text-resize { background-position: -73px -39px; }
+.icon-hand-up { background-position: -5px -75px; }
+.icon-vector_path_triangle { background-position: -39px -75px; }
+.icon-italic { background-position: -74px -75px; }
+.icon-bold { background-position: -109px -75px; }
+
+.icon-image-zoom-in{background-position: -74px -5px;}
+.icon-image-zoom-out{background-position: -107px -5px;}
+.icon-image-rotate90-right{background-position: -108px -39px;}
+.icon-image-rotate90-left{background-position: -140px -5px;}
+.icon-image-flipX{background-position: -140px -75px;}
+.icon-image-flipY{background-position: -140px -39px;}
+
